@@ -5,9 +5,9 @@ from time import sleep
 
 # Pins for Motor Driver Inputs
 
-Motor1E = 13
-Motor1A = 19
-Motor2A = 26
+Motor1E = 21
+Motor1A = 17
+Motor2A = 18
 
 
 def setup():
